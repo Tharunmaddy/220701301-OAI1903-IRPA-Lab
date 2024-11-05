@@ -1,0 +1,38 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "domain&Sequence_1",
+        "reg&Sequence_2",
+        "exp&Sequence_2",
+        "rar&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../OneDrive/Documents/rpa_tharun/Assignment_1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "domain&Sequence_1",
+        "reg&Sequence_2",
+        "exp&Sequence_2",
+        "rar&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
