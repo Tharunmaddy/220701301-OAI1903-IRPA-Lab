@@ -1,0 +1,28 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "hello&Sequence_2",
+        "hell&Sequence_2",
+        "datatable&Sequence_2",
+        "dt_outputdata&Sequence_2",
+        "dt_borrowedbooks&Sequence_2",
+        "dt_overduebooks&Sequence_2",
+        "dt_users&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+Food :Oatmeal
+Calories :150
+Carbs :27
+Proteins :5
+Fat :3
+Portion :1
+Quantity :3
+
+Food :Spinach Curry
+Calories :140
+Carbs :10
+Proteins :6
+Fat :5
+Portion :1
+Quantity :14
+
+Food :Masala Peanuts
+Calories :200
+Carbs :8
+Proteins :6
+Fat :14
+Portion :1
+Quantity :10
+
+Food :Spinach Dal
+Calories :140
+Carbs :18
+Proteins :6
+Fat :5
+Portion :1
+Quantity :14
+

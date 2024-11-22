@@ -1,0 +1,15 @@
+﻿title,Url
+Slow and steady won’t win the race to build enterprise AI,https://www.uipath.com/blog/ai/slow-and-steady-wont-win-the-race-to-build-enterprise-ai
+AI and automation: How manufacturing is winning,https://www.uipath.com/blog/industry-solutions/manufacturer-arcelik-embracing-ai-and-automation
+AI’s next act is agentic: It’s not just thinking—it’s doing,https://www.uipath.com/blog/ai/agentic-automation-not-just-thinking-its-doing
+Latte: Latent attention for linear time Transformers,https://www.uipath.com/blog/ai/latte-latent-attention-linear-time-transformers
+Your pre-FORWARD + TechEd checklist,https://www.uipath.com/blog/product-and-updates/before-uipath-forward-and-teched-checklist
+Reduce costs in your supply chain with AI and automation programs,https://www.uipath.com/blog/industry-solutions/ai-and-automation-reduce-supply-chain-cost
+Intelligent automation to the rescue of healthcare’s global workforce shortages,https://www.uipath.com/blog/industry-solutions/intelligent-automation-helping-healthcare-workforce-shortage
+Will the future of microfinance be powered by generative AI?,https://www.uipath.com/blog/industry-solutions/microfinance-institutions-generative-ai
+FORWARD + TechEd: What’s in it for you? We’re glad you asked.,https://www.uipath.com/blog/product-and-updates/forward-teched-2024-conferences-what-to-expect
+The ultimate AI glossary: Artificial intelligence definitions to know,https://www.uipath.com/blog/ai/ultimate-ai-glossary-of-terms
+OMERS' strategic approach to AI offers roadmap for financial leaders,https://www.uipath.com/blog/industry-solutions/omers-ai-success-insights-for-financial-leaders
+Autopilot meets Copilot: Creating AI-powered automation experiences,https://www.uipath.com/blog/product-and-updates/autopilot-copilot-integration
+Optimizing ROI for future strategies with automation and AI,https://www.uipath.com/blog/automation/optimizing-roi-with-automation-ai
+UiPath named a Leader in Gartner® Magic Quadrant™ for six years in a row,https://www.uipath.com/blog/rpa/gartner-magic-quadrant-rpa-report
